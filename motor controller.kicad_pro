@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.6,
+          "width": 1.325
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "items_not_allowed|133354000|100800000|eff5b633-f7c8-4b84-a3f7-f0245aff98b7|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|141710000|100800000|2ecd9a11-ebf8-4288-8f28-9988862ef1cb|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|161090000|100800000|560b1072-a66c-44df-a0ba-ba98161cb606|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|174300000|102270000|ec8ccba3-7622-45c3-9057-0df9cb14e152|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -216,10 +221,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "lib_symbol_issues|1447800|1295400|63a17344-421b-4501-9e9b-de83d86b378e|00000000-0000-0000-0000-000000000000|||",
-      "lib_symbol_issues|1498600|1422400|f0c4fd8f-407e-4ef6-bfae-3c19f901c8b7|00000000-0000-0000-0000-000000000000|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
