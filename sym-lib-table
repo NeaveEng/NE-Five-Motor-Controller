@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Module_RaspberryPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/Libs/RaspberryPi_Pico/MCU_Module_RaspberryPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "IFX9201SG")(type "KiCad")(uri "${KIPRJMOD}/Libs/9201SG/IFX9201SG.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/keegan/Documents/kicad/light_sausage_ble/kicad/lib/Connector_AMASS.pretty/New_Library.kicad_sym")(options "")(descr ""))
+)
