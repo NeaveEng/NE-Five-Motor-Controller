@@ -64,7 +64,7 @@
 		)
 		(symbol "IFX9201SG_1_1"
 			(pin input line
-				(at -8.89 -2.54 0)
+				(at -8.89 -5.08 0)
 				(length 2.54)
 				(name "DIR"
 					(effects
@@ -82,7 +82,7 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -10.16 180)
+				(at -8.89 -13.97 0)
 				(length 2.54)
 				(name "SCK"
 					(effects
@@ -100,7 +100,7 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -6.35 180)
+				(at -8.89 -7.62 0)
 				(length 2.54)
 				(name "DIS"
 					(effects
@@ -118,7 +118,7 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -2.54 180)
+				(at -8.89 -10.16 0)
 				(length 2.54)
 				(name "PWM"
 					(effects
@@ -136,7 +136,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 2.54 270)
+				(at 8.89 -21.59 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -155,7 +155,7 @@
 				(alternate "EPAD" power_in line)
 			)
 			(pin power_in line
-				(at -8.89 -6.35 0)
+				(at -8.89 -2.54 0)
 				(length 2.54)
 				(name "VSO"
 					(effects
@@ -173,7 +173,7 @@
 				)
 			)
 			(pin output line
-				(at -8.89 -10.16 0)
+				(at -8.89 -19.05 0)
 				(length 2.54)
 				(name "SO"
 					(effects
@@ -191,7 +191,7 @@
 				)
 			)
 			(pin power_in line
-				(at -8.89 -13.97 0)
+				(at 8.89 -2.54 180)
 				(length 2.54)
 				(name "VS"
 					(effects
@@ -209,7 +209,7 @@
 				)
 			)
 			(pin output line
-				(at -8.89 -17.78 0)
+				(at 8.89 -10.16 180)
 				(length 2.54)
 				(name "OUT1"
 					(effects
@@ -227,7 +227,7 @@
 				)
 			)
 			(pin power_in line
-				(at -8.89 -21.59 0)
+				(at 8.89 -19.05 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -245,7 +245,7 @@
 				)
 			)
 			(pin output line
-				(at 8.89 -21.59 180)
+				(at 8.89 -12.7 180)
 				(length 2.54)
 				(name "OUT2"
 					(effects
@@ -263,7 +263,7 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -17.78 180)
+				(at -8.89 -16.51 0)
 				(length 2.54)
 				(name "SI"
 					(effects
@@ -281,7 +281,7 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -13.97 180)
+				(at -8.89 -21.59 0)
 				(length 2.54)
 				(name "CSN"
 					(effects

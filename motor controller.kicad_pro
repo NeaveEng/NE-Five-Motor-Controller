@@ -53,10 +53,10 @@
       },
       "diff_pair_dimensions": [],
       "drc_exclusions": [
-        "items_not_allowed|133354000|100800000|eff5b633-f7c8-4b84-a3f7-f0245aff98b7|00000000-0000-0000-0000-000000000000",
-        "items_not_allowed|141710000|100800000|2ecd9a11-ebf8-4288-8f28-9988862ef1cb|00000000-0000-0000-0000-000000000000",
-        "items_not_allowed|161090000|100800000|560b1072-a66c-44df-a0ba-ba98161cb606|00000000-0000-0000-0000-000000000000",
-        "items_not_allowed|174300000|102270000|ec8ccba3-7622-45c3-9057-0df9cb14e152|00000000-0000-0000-0000-000000000000"
+        "items_not_allowed|141150000|102200000|ec8ccba3-7622-45c3-9057-0df9cb14e152|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|142770000|100970000|2ecd9a11-ebf8-4288-8f28-9988862ef1cb|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|162150000|100970000|560b1072-a66c-44df-a0ba-ba98161cb606|00000000-0000-0000-0000-000000000000",
+        "items_not_allowed|175360000|102285000|02fa45cf-d0b9-4ad8-9ed8-2bccfd00cb06|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -532,23 +532,11 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "",
+      "name": "Grouped By Value",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -580,14 +568,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
