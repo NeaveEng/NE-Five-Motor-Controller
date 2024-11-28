@@ -10356,7 +10356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical"
 			(at 267.97 129.54 0)
 			(effects
 				(font
@@ -10436,7 +10436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical"
 			(at 245.11 129.54 0)
 			(effects
 				(font
@@ -13719,7 +13719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical"
 			(at 179.07 27.94 0)
 			(effects
 				(font
@@ -14481,7 +14481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical"
 			(at 201.93 129.54 0)
 			(effects
 				(font
@@ -14560,7 +14560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical"
 			(at 101.6 93.98 0)
 			(effects
 				(font
@@ -15735,7 +15735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical"
 			(at 149.86 142.24 0)
 			(effects
 				(font
@@ -15871,7 +15871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical"
 			(at 223.52 129.54 0)
 			(effects
 				(font
