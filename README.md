@@ -12,3 +12,8 @@ It uses a Pi Pico at its core with four IFX9201SG motor controllers, it has one 
 Thanks!
 ==
 Many thanks to Mark Mellors, Phillip Skippy McGaw, and Robert Karpinski for incredibly useful feedback!
+
+# automatic image generation
+### Images
+![top](<github_username>.github.io/<repo_name>/top.png)
+![bottom](<github_username>.github.io/<repo_name>/bottom.png)
