@@ -15,5 +15,7 @@ Many thanks to Mark Mellors, Phillip Skippy McGaw, and Robert Karpinski for incr
 
 # automatic image generation
 ### Images
-![top](neaveeng.github.io/nefive-motor-controller/top.png)
-![bottom](neaveeng.github.io/nefive-motor-controller/bottom.png)
+![top](https://neaveeng.github.io/nefive-motor-controller/top.png)
+![bottom](https://neaveeng.github.io/nefive-motor-controller/bottom.png)
+
+Using [this github action](https://github.com/linalinn/kicad-render)
