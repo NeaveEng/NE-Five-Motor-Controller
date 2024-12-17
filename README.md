@@ -15,5 +15,5 @@ Many thanks to Mark Mellors, Phillip Skippy McGaw, and Robert Karpinski for incr
 
 # automatic image generation
 ### Images
-![top](neaveeng.github.io/ne-five-motor-controller/top.png)
-![bottom](neaveeng.github.io/ne-five-motor-controller/bottom.png)
+![top](neaveeng.github.io/nefive-motor-controller/top.png)
+![bottom](neaveeng.github.io/nefive-motor-controller/bottom.png)
